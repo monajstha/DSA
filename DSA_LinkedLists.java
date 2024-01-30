@@ -4,7 +4,7 @@ public class DSA_LinkedLists {
    public static void main(String[] args) {
         LinkedList<String> linkedList = new LinkedList<String>();
 
-      // LinkedList = Stores Nodes in two parts = data + address;
+      // LinkedList = Stores Nodes (data + address) in two parts = data + address;
 
       //   linkedList.push("Apple");
       //   linkedList.push("Banana");
@@ -29,7 +29,7 @@ public class DSA_LinkedLists {
         System.out.println(linkedList.indexOf("C")); //similar to indexOf array method in js
         System.out.println(linkedList.peekFirst());
         System.out.println(linkedList.peekLast());
-        System.out.println(linkedList.poll());
+        System.out.println(linkedList.poll()); //removes the last element of the list
 
    } 
 }
