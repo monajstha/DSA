@@ -1,5 +1,5 @@
 PROJECT TITLE: DSA
-PURPOSE OF PROJECT: Learn the Data Structures and Algorithms
+PURPOSE OF PROJECT: Learning and Revising the Data Structures and Algorithms
 VERSION or DATE: 2023-12-14
 HOW TO START THIS PROJECT: Start reading through the listed DSA, in order to practice and revise.
 AUTHORS: Manoj Shrestha
